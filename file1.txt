@@ -1,3 +1,4 @@
 Percobaan 1
 - Membuat file
 - Masukkan file ke dalam git
+- Update file
